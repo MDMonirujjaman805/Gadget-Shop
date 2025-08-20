@@ -1,0 +1,112 @@
+[
+  {
+    "product_id": "pc-001",
+    "product_title": "QuantumBook Pro 14",
+    "product_image": "https://picsum.photos/seed/pc001/400/300",
+    "category": "computers",
+    "price": 899,
+    "description": "Ultra-thin laptop with M-series class performance.",
+    "Specification": ["14\" QHD", "16GB RAM", "512GB SSD"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "pc-002",
+    "product_title": "NanoBox Mini PC",
+    "product_image": "https://picsum.photos/seed/pc002/400/300",
+    "category": "computers",
+    "price": 599,
+    "description": "Compact powerhouse for desk setups.",
+    "Specification": ["Ryzen 7", "32GB RAM", "1TB SSD"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "pc-003",
+    "product_title": "AeroPad 13",
+    "product_image": "https://picsum.photos/seed/pc003/400/300",
+    "category": "computers",
+    "price": 749,
+    "description": "Featherweight ultrabook for creators.",
+    "Specification": ["13.3\" OLED", "16GB RAM", "512GB NVMe"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "pc-004",
+    "product_title": "RaptorStation",
+    "product_image": "https://picsum.photos/seed/pc004/400/300",
+    "category": "computers",
+    "price": 1299,
+    "description": "High-end desktop for gaming and dev.",
+    "Specification": ["RTX 4070", "32GB RAM", "2TB SSD"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "pc-005",
+    "product_title": "StudioPad 15",
+    "product_image": "https://picsum.photos/seed/pc005/400/300",
+    "category": "computers",
+    "price": 999,
+    "description": "Creator-focused notebook with color-accurate display.",
+    "Specification": ["15\" IPS 100% sRGB", "32GB RAM", "1TB SSD"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "pc-006",
+    "product_title": "EdgeBook Air",
+    "product_image": "https://picsum.photos/seed/pc006/400/300",
+    "category": "computers",
+    "price": 849,
+    "description": "Silent fanless design for mobile devs.",
+    "Specification": ["Fanless", "16GB RAM", "512GB SSD"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "ph-001",
+    "product_title": "PixelWave X",
+    "product_image": "https://picsum.photos/seed/ph001/400/300",
+    "category": "phones",
+    "price": 699,
+    "description": "AI-first smartphone with epic camera.",
+    "Specification": ["6.2\" 120Hz", "8GB RAM", "256GB"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "ph-002",
+    "product_title": "iDroid 12",
+    "product_image": "https://picsum.photos/seed/ph002/400/300",
+    "category": "phones",
+    "price": 899,
+    "description": "Flagship silicon with buttery UI.",
+    "Specification": ["6.7\" 120Hz", "12GB RAM", "512GB"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "sw-001",
+    "product_title": "TimeSync S",
+    "product_image": "https://picsum.photos/seed/sw001/400/300",
+    "category": "smart-watches",
+    "price": 249,
+    "description": "Health tracking and LTE connectivity.",
+    "Specification": ["SpO2", "ECG", "LTE eSIM"],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": "ch-001",
+    "product_title": "TurboCharge 65W",
+    "product_image": "https://picsum.photos/seed/ch001/400/300",
+    "category": "chargers",
+    "price": 59,
+    "description": "GaN fast charger with dual USB-C.",
+    "Specification": ["65W GaN", "PD 3.0", "PPS"],
+    "availability": true,
+    "rating": 4.1
+  }
+]
